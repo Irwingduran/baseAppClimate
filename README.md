@@ -1,3 +1,4 @@
+Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://app-climate-javascript.netlify.app//)
 
 ## Estructura del código
 
@@ -63,3 +64,5 @@ El código anterior consta de dos funciones principales: `fetchDatosClima(ciudad
 Recuerda reemplazar `'API_KEY'` en el código con tu propia clave de API obtenida de OpenWeatherMap.
 
 ¡Ahora deberías tener una aplicación de clima completamente funcional en tu página web! Los usuarios podrán ingresar una ciudad y obtener información actualizada sobre el clima en esa ubicación.
+
+Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://app-climate-javascript.netlify.app//)
